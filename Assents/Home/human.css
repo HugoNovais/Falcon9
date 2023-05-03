@@ -1,0 +1,74 @@
+.container08 {
+    background-image: url(/img/humanFlight/01.jpg);
+}
+
+.container09 {
+    background-image: url(/img/humanFlight/02.jpg);
+}
+
+.container10 {
+    background-image: url(/img/humanFlight/03.jpg)
+}
+
+.container11 {
+    background-image: url(/img/humanFlight/04.jpg)
+}
+
+.container12 {
+    background-image: url(/img/humanFlight/05.jpg)
+}
+
+.container08Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.titleHuman {
+    font-family: sans-serif;
+    font-size: 110px;
+    font-weight: 500;
+}
+
+.subHuman {
+    font-family: sans-serif;
+    font-size: 27px;
+}
+
+.eartDesc {
+    display: flex;
+    min-height: 30vh;
+    font-family: sans-serif;
+    font-size: 21px;
+    align-items: center;
+    color: #c5c5c5;
+    width: 62%;
+}
+
+.emailTest {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.containerRight {
+    margin-left: 55%;
+    padding-top: 15%;
+}
+
+.titleSection {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.subTitle {
+    font-size: 18px;
+}
+
+.containerLeft {
+    padding-top: 18%;
+    padding-left: 5%;
+}
+
+button [type="submit"] {}

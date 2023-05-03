@@ -1,0 +1,127 @@
+.container05 {
+    background-image: url(/img/falcon9/01.jpg);
+    opacity: initial;
+}
+
+.container06 {
+    background-image: url(/img/falcon9/02.jpg);
+}
+
+.container07 {
+    background-image: url(/img/falcon9/08.jpg);
+}
+
+.titleContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.titleFalcon9 {
+    font-size: 85px;
+    font-weight: 800;
+}
+
+.subFalcon9 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #0a0613;
+}
+
+.containerFalcon9Desc {
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.falcon9Desc {
+    font-size: 21px;
+    width: 630px;
+    line-height: 42px;
+}
+
+.numbers {
+    background-color: black;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.titleNumb {
+    font-size: 65px;
+    font-weight: 600;
+}
+
+.subTitleNumb {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.carrossel01 {
+    background-image: url(/img/falcon9/03.jpg);
+}
+
+.carrossel02 {
+    background-image: url(/img/falcon9/04.jpg);
+}
+
+.carrossel03 {
+    background-image: url(/img/falcon9/05.jpg);
+}
+
+.carrossel04 {
+    background-image: url(/img/falcon9/06.jpg);
+}
+
+.carrossel05 {
+    background-image: url(/img/falcon9/07.jpg);
+}
+
+#overViewPosition {
+    width: 500px;
+    margin-left: 13%;
+    padding-top: 15%;
+}
+
+.widthTable {
+    font-size: 14px;
+    color: white;
+}
+
+.tableCuston {
+    color: #c7c5c5;
+}
+
+.carousselText {
+    font-family: "Monospace";
+    background-color: #00000081;
+    color: #fffbfb;
+    font-size: 17px;
+}
+
+.downloadDesc {
+    padding-top: 230px;
+    min-height: 100vh;
+}
+
+.emailHugo {
+    font-family: "Lobster";
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #8a8989;
+    transition: all 0.4s;
+}
+
+.emailHugo:hover {
+    color: aqua;
+}
+
+.spanInfo {
+    font-family: "Lobster";
+    font-size: 18px;
+    font-weight: 500;
+}

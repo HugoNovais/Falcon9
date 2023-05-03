@@ -1,0 +1,30 @@
+.LogoOne {
+    width: 220px;
+    transition: transform 0.4;
+}
+
+.LogoOne:hover {
+    transform: scale(1.1);
+}
+
+.LinkPage {
+    color: #d8d8d8;
+    text-decoration: none;
+    transition: all 0.4s;
+}
+
+.LinkPage:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+    color: white;
+}
+
+.header {
+    width: 100%;
+}
+
+@media (max-width: 412px) {
+    .LogoOne {
+        width: 180px;
+    }
+}
